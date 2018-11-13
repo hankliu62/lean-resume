@@ -22,6 +22,52 @@
       }
     }
   ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeExperience/index.less": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeExperience/index.less": 0,
+          "node_modules/css-loader/lib/css-base.js": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIndex/index.less": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIndex/index.less": 0,
+          "node_modules/css-loader/lib/css-base.js": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/index.less": [
     {
       "modules": {
@@ -91,80 +137,34 @@
       }
     }
   ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIntroduction/index.less": [
-    {
-      "modules": {
-        "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIntroduction/index.less": 0,
-          "node_modules/css-loader/lib/css-base.js": 1
-        },
-        "usedIds": {
-          "0": 0,
-          "1": 1
-        }
-      },
-      "chunks": {
-        "byName": {
-          "mini-css-extract-plugin": 0
-        },
-        "bySource": {},
-        "usedIds": [
-          0
-        ]
-      }
-    }
-  ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIndex/index.less": [
-    {
-      "modules": {
-        "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIndex/index.less": 0,
-          "node_modules/css-loader/lib/css-base.js": 1
-        },
-        "usedIds": {
-          "0": 0,
-          "1": 1
-        }
-      },
-      "chunks": {
-        "byName": {
-          "mini-css-extract-plugin": 0
-        },
-        "bySource": {},
-        "usedIds": [
-          0
-        ]
-      }
-    }
-  ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeExperience/index.less": [
-    {
-      "modules": {
-        "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeExperience/index.less": 0,
-          "node_modules/css-loader/lib/css-base.js": 1
-        },
-        "usedIds": {
-          "0": 0,
-          "1": 1
-        }
-      },
-      "chunks": {
-        "byName": {
-          "mini-css-extract-plugin": 0
-        },
-        "bySource": {},
-        "usedIds": [
-          0
-        ]
-      }
-    }
-  ],
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeProject/index.less": [
     {
       "modules": {
         "byIdentifier": {
           "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeProject/index.less": 0,
+          "node_modules/css-loader/lib/css-base.js": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIntroduction/index.less": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!pages/Resume/components/ResumeIntroduction/index.less": 0,
           "node_modules/css-loader/lib/css-base.js": 1
         },
         "usedIds": {
@@ -206,11 +206,11 @@
       }
     }
   ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/MessageModal/index.less": [
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Carousel/index.less": [
     {
       "modules": {
         "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/MessageModal/index.less": 0,
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Carousel/index.less": 0,
           "node_modules/css-loader/lib/css-base.js": 1
         },
         "usedIds": {
@@ -252,34 +252,11 @@
       }
     }
   ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Carousel/index.less": [
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/MessageModal/index.less": [
     {
       "modules": {
         "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Carousel/index.less": 0,
-          "node_modules/css-loader/lib/css-base.js": 1
-        },
-        "usedIds": {
-          "0": 0,
-          "1": 1
-        }
-      },
-      "chunks": {
-        "byName": {
-          "mini-css-extract-plugin": 0
-        },
-        "bySource": {},
-        "usedIds": [
-          0
-        ]
-      }
-    }
-  ],
-  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Loading/index.less": [
-    {
-      "modules": {
-        "byIdentifier": {
-          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Loading/index.less": 0,
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/MessageModal/index.less": 0,
           "node_modules/css-loader/lib/css-base.js": 1
         },
         "usedIds": {
@@ -321,6 +298,29 @@
       }
     }
   ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Loading/index.less": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js??ref--5-1!node_modules/postcss-loader/src/index.js??ref--5-2!node_modules/less-loader/dist/cjs.js??ref--5-3!components/Loading/index.less": 0,
+          "node_modules/css-loader/lib/css-base.js": 1
+        },
+        "usedIds": {
+          "0": 0,
+          "1": 1
+        }
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
   "modules": {
     "byIdentifier": {
       "node_modules/react/index.js": 0,
@@ -332,21 +332,21 @@
       "node_modules/react-dom/index.js": 6,
       "node_modules/babel-runtime/helpers/defineProperty.js": 7,
       "node_modules/babel-runtime/helpers/createClass.js": 8,
-      "node_modules/moment/moment.js": 9,
-      "node_modules/classnames/index.js": 10,
+      "node_modules/classnames/index.js": 9,
+      "node_modules/moment/moment.js": 10,
       "node_modules/core-js/modules/_export.js": 11,
       "node_modules/lodash/lodash.js": 12,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!constants/index.js": 13,
       "node_modules/babel-runtime/helpers/objectWithoutProperties.js": 14,
-      "node_modules/@ant-design/icons-react/es/utils.js": 15,
-      "node_modules/antd/lib/icon/index.js": 16,
+      "node_modules/antd/lib/icon/index.js": 15,
+      "node_modules/@ant-design/icons-react/es/utils.js": 16,
       "node_modules/@babel/runtime/regenerator/index.js": 17,
       "node_modules/core-js/library/modules/_core.js": 18,
       "node_modules/rc-animate/es/Animate.js 16966e1e60ee8323e06e330612c7d59e": 19,
       "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!plugins/Platform.js": 20,
       "node_modules/axios/lib/utils.js": 21,
-      "node_modules/core-js/library/modules/_export.js": 22,
-      "node_modules/webpack/buildin/global.js": 23,
+      "node_modules/webpack/buildin/global.js": 22,
+      "node_modules/core-js/library/modules/_export.js": 23,
       "node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js": 24,
       "node_modules/core-js/modules/_fails.js": 25,
       "node_modules/core-js/modules/_global.js": 26,
@@ -395,76 +395,76 @@
       "node_modules/core-js/library/modules/_descriptors.js": 69,
       "node_modules/add-dom-event-listener/lib/index.js": 70,
       "node_modules/core-js/library/modules/_an-object.js": 71,
-      "node_modules/core-js/library/modules/_a-function.js": 72,
-      "node_modules/@babel/runtime-corejs2/core-js/promise.js": 73,
-      "node_modules/@babel/runtime-corejs2/helpers/typeof.js": 74,
-      "node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js": 75,
-      "node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js": 76,
-      "node_modules/@babel/runtime-corejs2/helpers/inherits.js": 77,
-      "node_modules/lodash/isObject.js": 78,
-      "node_modules/lodash/_root.js": 79,
-      "node_modules/lodash/_Symbol.js": 80,
-      "node_modules/enquire.js/src/Util.js": 81,
-      "node_modules/babel-runtime/regenerator/index.js": 82,
-      "node_modules/redux-pagan/lib/actionTypes.js": 83,
-      "node_modules/intl-messageformat/lib/utils.js": 84,
-      "node_modules/component-indexof/index.js": 85,
-      "node_modules/antd/lib/button/index.js": 86,
-      "node_modules/react-redux/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": 87,
-      "node_modules/symbol-observable/es/ponyfill.js": 88,
-      "node_modules/component-classes/index.js": 89,
-      "node_modules/react-svg/node_modules/@babel/runtime/helpers/extends.js": 90,
-      "node_modules/react-svg/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js": 91,
-      "node_modules/react-svg/node_modules/@babel/runtime/helpers/inheritsLoose.js": 92,
-      "node_modules/axios/index.js": 93,
-      "node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js": 94,
-      "node_modules/core-js/library/modules/_fails.js": 95,
-      "node_modules/core-js/library/modules/es6.string.iterator.js": 96,
-      "node_modules/@babel/runtime-corejs2/core-js/set.js": 97,
-      "node_modules/core-js/modules/_redefine.js": 98,
-      "node_modules/core-js/modules/_string-html.js": 99,
-      "node_modules/@babel/runtime-corejs2/helpers/objectSpread.js": 100,
-      "node_modules/core-js/library/modules/_to-object.js": 101,
-      "node_modules/@babel/runtime-corejs2/regenerator/index.js": 102,
-      "node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js": 103,
-      "node_modules/core-js/library/modules/web.dom.iterable.js": 104,
-      "node_modules/core-js/library/modules/_validate-collection.js": 105,
-      "node_modules/core-js/modules/_has.js": 106,
-      "node_modules/core-js/modules/_hide.js": 107,
-      "node_modules/core-js/modules/_to-iobject.js": 108,
-      "node_modules/core-js/modules/_to-object.js": 109,
-      "node_modules/antd/lib/modal/locale.js": 110,
-      "node_modules/babel-runtime/helpers/typeof.js": 111,
-      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!plugins/index.js 2b94f4ba7ed3c5e1095384bcf86a69a9": 112,
-      "node_modules/core-js/library/modules/_object-sap.js": 113,
-      "node_modules/core-js/library/modules/_hide.js": 114,
-      "node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js": 115,
-      "node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js": 116,
-      "node_modules/core-js/modules/_strict-method.js": 117,
-      "node_modules/babel-runtime/helpers/toConsumableArray.js": 118,
-      "node_modules/antd/lib/modal/Modal.js": 119,
-      "node_modules/@ant-design/icons/lib/dist.js": 120,
-      "node_modules/ant-design-palettes/lib/generate.js": 121,
-      "node_modules/tinycolor2/tinycolor.js": 122,
-      "node_modules/antd/lib/icon/IconFont.js": 123,
-      "node_modules/antd/lib/icon/utils.js": 124,
-      "node_modules/warning/warning.js": 125,
-      "node_modules/antd/lib/icon/twoTonePrimaryColor.js": 126,
-      "node_modules/antd/lib/date-picker/locale/en_US.js": 127,
-      "node_modules/antd/lib/time-picker/locale/en_US.js": 128,
-      "node_modules/qr.js/lib/mode.js": 129,
-      "node_modules/qr.js/lib/ErrorCorrectLevel.js": 130,
-      "node_modules/qr.js/lib/Polynomial.js": 131,
-      "node_modules/qr.js/lib/math.js": 132,
-      "node_modules/axios/lib/defaults.js": 133,
-      "node_modules/antd/lib/spin/index.js": 134,
-      "node_modules/qrcode.react/lib/index.js": 135,
-      "node_modules/antd/lib/progress/index.js": 136,
-      "node_modules/antd/lib/popover/index.js": 137,
-      "node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js": 138,
-      "node_modules/core-js/library/modules/_object-create.js": 139,
-      "node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js": 140,
-      "node_modules/webpack/buildin/module.js": 141,
+      "node_modules/antd/lib/popover/index.js": 72,
+      "node_modules/core-js/library/modules/_a-function.js": 73,
+      "node_modules/@babel/runtime-corejs2/core-js/promise.js": 74,
+      "node_modules/@babel/runtime-corejs2/helpers/typeof.js": 75,
+      "node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js": 76,
+      "node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js": 77,
+      "node_modules/@babel/runtime-corejs2/helpers/inherits.js": 78,
+      "node_modules/lodash/isObject.js": 79,
+      "node_modules/lodash/_root.js": 80,
+      "node_modules/lodash/_Symbol.js": 81,
+      "node_modules/enquire.js/src/Util.js": 82,
+      "node_modules/babel-runtime/regenerator/index.js": 83,
+      "node_modules/redux-pagan/lib/actionTypes.js": 84,
+      "node_modules/intl-messageformat/lib/utils.js": 85,
+      "node_modules/component-indexof/index.js": 86,
+      "node_modules/antd/lib/button/index.js": 87,
+      "node_modules/react-redux/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js": 88,
+      "node_modules/symbol-observable/es/ponyfill.js": 89,
+      "node_modules/component-classes/index.js": 90,
+      "node_modules/react-svg/node_modules/@babel/runtime/helpers/extends.js": 91,
+      "node_modules/react-svg/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js": 92,
+      "node_modules/react-svg/node_modules/@babel/runtime/helpers/inheritsLoose.js": 93,
+      "node_modules/axios/index.js": 94,
+      "node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js": 95,
+      "node_modules/core-js/library/modules/_fails.js": 96,
+      "node_modules/core-js/library/modules/es6.string.iterator.js": 97,
+      "node_modules/@babel/runtime-corejs2/core-js/set.js": 98,
+      "node_modules/core-js/modules/_redefine.js": 99,
+      "node_modules/core-js/modules/_string-html.js": 100,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!plugins/index.js 2b94f4ba7ed3c5e1095384bcf86a69a9": 101,
+      "node_modules/@babel/runtime-corejs2/helpers/objectSpread.js": 102,
+      "node_modules/core-js/library/modules/_to-object.js": 103,
+      "node_modules/@babel/runtime-corejs2/regenerator/index.js": 104,
+      "node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js": 105,
+      "node_modules/core-js/library/modules/web.dom.iterable.js": 106,
+      "node_modules/core-js/library/modules/_validate-collection.js": 107,
+      "node_modules/core-js/modules/_has.js": 108,
+      "node_modules/core-js/modules/_hide.js": 109,
+      "node_modules/core-js/modules/_to-iobject.js": 110,
+      "node_modules/core-js/modules/_to-object.js": 111,
+      "node_modules/antd/lib/modal/locale.js": 112,
+      "node_modules/babel-runtime/helpers/typeof.js": 113,
+      "node_modules/core-js/library/modules/_object-sap.js": 114,
+      "node_modules/core-js/library/modules/_hide.js": 115,
+      "node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js": 116,
+      "node_modules/webpack/buildin/module.js": 117,
+      "node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js": 118,
+      "node_modules/core-js/modules/_strict-method.js": 119,
+      "node_modules/babel-runtime/helpers/toConsumableArray.js": 120,
+      "node_modules/antd/lib/modal/Modal.js": 121,
+      "node_modules/@ant-design/icons/lib/dist.js": 122,
+      "node_modules/ant-design-palettes/lib/generate.js": 123,
+      "node_modules/tinycolor2/tinycolor.js": 124,
+      "node_modules/antd/lib/icon/IconFont.js": 125,
+      "node_modules/antd/lib/icon/utils.js": 126,
+      "node_modules/warning/warning.js": 127,
+      "node_modules/antd/lib/icon/twoTonePrimaryColor.js": 128,
+      "node_modules/antd/lib/date-picker/locale/en_US.js": 129,
+      "node_modules/antd/lib/time-picker/locale/en_US.js": 130,
+      "node_modules/qr.js/lib/mode.js": 131,
+      "node_modules/qr.js/lib/ErrorCorrectLevel.js": 132,
+      "node_modules/qr.js/lib/Polynomial.js": 133,
+      "node_modules/qr.js/lib/math.js": 134,
+      "node_modules/axios/lib/defaults.js": 135,
+      "node_modules/antd/lib/spin/index.js": 136,
+      "node_modules/qrcode.react/lib/index.js": 137,
+      "node_modules/antd/lib/progress/index.js": 138,
+      "node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js": 139,
+      "node_modules/core-js/library/modules/_object-create.js": 140,
+      "node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js": 141,
       "node_modules/core-js/modules/_object-gopd.js": 142,
       "node_modules/core-js/modules/_object-sap.js": 143,
       "node_modules/core-js/modules/_array-methods.js": 144,
@@ -2115,52 +2115,39 @@
       "commons": 1,
       "styles": 2,
       "static/runtime/main.js": 3,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/_app.js": 4,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/_error.js": 5,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Blog.js": 6,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Blog/state.js": 7,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components.js": 8,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeArticle.js": 9,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeExperience.js": 10,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeIndex.js": 11,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeIntroduction.js": 12,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeProject.js": 13,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/components/ResumeSkill.js": 14,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume.js": 15,
-      "static/TXqbNmqfZ5t~sBr~PruCs/pages/Resume/state.js": 16,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/_app.js": 17,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/_error.js": 18,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Blog.js": 19,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Blog/state.js": 20,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components.js": 21,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeArticle.js": 22,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeExperience.js": 23,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeIndex.js": 24,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeIntroduction.js": 25,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeProject.js": 26,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/components/ResumeSkill.js": 27,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume.js": 28,
-      "static/DA_hWUUSetnz2e5a8d1nM/pages/Resume/state.js": 29
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/_app.js": 4,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/_error.js": 5,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Blog.js": 6,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Blog/state.js": 7,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components.js": 8,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeArticle.js": 9,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeExperience.js": 10,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeIndex.js": 11,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeIntroduction.js": 12,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeProject.js": 13,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/components/ResumeSkill.js": 14,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume.js": 15,
+      "static/Znx8mmcRVHv1U3WZFhnUw/pages/Resume/state.js": 16
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      17,
-      18,
-      19,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
       2,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28,
-      29,
-      3
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }

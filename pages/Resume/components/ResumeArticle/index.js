@@ -19,10 +19,9 @@ export default class ResumeArticle extends PureComponent {
               个人博客
             </a>
           </h1>
-        </div>
-
-        <div className="content-wrapper">
-          开发过程中，敬请期待
+          <div className="content-wrapper">
+            开发过程中，敬请期待
+          </div>
         </div>
       </div>
     );
