@@ -61,6 +61,4 @@ typings/
 .avoscloud
 .leancloud
 
-build
-
 package-lock.json

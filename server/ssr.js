@@ -1,14 +1,13 @@
 
 const Router = require('koa-router');
 const NextJs = require('next');
-const path = require('path');
 const translations = require('../resources');
 
 const CookieLang = 'hl/lang';
 
 module.exports = async function setupSSR(app) {
   // Setup Next.js
-  const nextEngine = NextJs({ dev: process.env.NODE_ENV !== 'production', dir: path.resolve(__dirname, 'build') });
+  const nextEngine = NextJs({ dev: process.env.NODE_ENV !== 'production' });
   const handle = nextEngine.getRequestHandler();
   await nextEngine.prepare();
 
