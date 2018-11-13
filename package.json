@@ -5,7 +5,7 @@
   "description": "hank liu's blog website",
   "main": "server.js",
   "scripts": {
-    "start": "rm -rf .next && node server.js",
+    "start": "node server.js",
     "dev": "rm -rf .next && nodemon server.js -- "
   },
   "repository": {
