@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "rm -rf .next && nodemon server.js -- "
+    "dev": "rm -rf build && nodemon server.js -- "
   },
   "repository": {
     "type": "git",
