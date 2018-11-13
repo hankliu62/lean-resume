@@ -61,4 +61,6 @@ typings/
 .avoscloud
 .leancloud
 
+.next
+
 package-lock.json
